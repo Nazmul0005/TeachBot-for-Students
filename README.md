@@ -1232,7 +1232,7 @@ We welcome contributions! Here's how you can help:
 
 ```bash
 # 🍴 Fork and clone
-git clone https://github.com/your-username/sdlfkaskjd.git
+git clone https://github.com/Nazmul0005/TeachBot-for-Students.git
 cd sdlfkaskjd
 
 # 🌿 Create feature branch
