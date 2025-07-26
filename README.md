@@ -75,6 +75,10 @@ curl -X POST "https://teachbot-for-students-1.onrender.com/chat" \
 - **`POST /evaluate`** - RAG evaluation
 - **`GET /memory/{session_id}`** - Session retrieval
 - **`DELETE /memory/{session_id}`** - Memory cleanup
+- **`POST /api/v1/extract`** - Document extraction
+
+**⚠️ Limitations on Free Tier**:
+- Document extraction endpoint disabled (Google Cloud service account file restrictions) so the `/api/v1/extract` endpoint will not work on Render
 
 </td>
 <td width="50%">
