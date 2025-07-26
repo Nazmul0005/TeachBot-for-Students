@@ -205,7 +205,7 @@ curl -X POST "https://teachbot-for-students-1.onrender.com/chat" \
 ```bash
 # Clone and setup
 git clone <repository-url>
-cd sdlfkaskjd
+cd TeachBot-for-Students
 
 # Configure environment
 cp .env.example .env  # Add your API keys
